@@ -1,0 +1,14 @@
+//POST
+// router.post('/post', (req, res) => {
+//     res.send('Post API');
+// })
+
+//GET all
+// router.get("/getAll", (req, res) => {
+//   res.send("Get All API");
+// });
+
+//GET by ID
+// router.get("/getOne/:id", (req, res) => {
+//   res.send("Get by ID API");
+// });
